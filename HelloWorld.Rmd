@@ -1,0 +1,9 @@
+---
+#You can add headers
+---
+## This is a markdown File
+
+And you can add code to show your work
+```{R}
+print("Hello World")
+```
